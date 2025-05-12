@@ -1,0 +1,4 @@
+site:play.google.com/store/apps/details?id=
+inurl:"index of" apk
+intitle:"index of" "apk"
+site:apkpure.com apk download

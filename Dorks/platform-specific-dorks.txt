@@ -1,0 +1,3 @@
+site:hackerone.com intext:"android"
+site:bugcrowd.com intitle:"program" intext:"android app"
+site:intigriti.com intext:"mobile app" intext:"APK"

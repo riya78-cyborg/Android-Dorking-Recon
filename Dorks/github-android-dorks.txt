@@ -1,0 +1,3 @@
+inurl:"AndroidManifest.xml" inurl:github.com
+intext:"com.package.name" file:build.gradle
+"API_KEY" OR "client_secret" extension:java
