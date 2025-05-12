@@ -1,4 +1,3 @@
-# Android-Dorking-Recon
 # Android Bug Bounty Hunting using Dorks & Recon Techniques
 
 Welcome to the ultimate guide for finding **Android bug bounty targets** using simple yet powerful **Google Dorks**, **GitHub search filters**, and platform-specific techniques. This project is aimed at helping the community discover Android applications that are eligible for bug bounty — quickly and legally.
