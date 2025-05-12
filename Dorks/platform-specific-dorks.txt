@@ -1,3 +1,67 @@
 site:hackerone.com intext:"android"
 site:bugcrowd.com intitle:"program" intext:"android app"
 site:intigriti.com intext:"mobile app" intext:"APK"
+
+# General Android APK Bug Bounty Program Search Dorks
+inurl:"bug bounty" intext:"android app"
+inurl:"android" intext:"bug bounty"
+intitle:"Bug Bounty" "android app"
+site:bugcrowd.com android app bug bounty
+site:hackerone.com "android" "bug bounty"
+inurl:"bug bounty" "mobile app" "android" 
+inurl:"mobile" intext:"android bug bounty"
+inurl:"android" intext:"vulnerability disclosure"
+inurl:"android" "program" "bug bounty"
+site:github.com "android app" "bug bounty"
+inurl:"mobile" "app security" "bug bounty"
+"android" "bug bounty" filetype:pdf
+site:securitytrails.com "android" "bug bounty"
+site:securityfocus.com "android" "bug bounty"
+inurl:"bug bounty" "android app" "Android platform"
+inurl:"vulnerability disclosure program" "android" 
+inurl:"android" intext:"security testing"
+inurl:"bug bounty" intext:"APK" site:github.com
+"android" "bug bounty" "find security vulnerabilities"
+inurl:"android app" "bug bounty" "research"
+inurl:"android app" "report bug bounty" filetype:pdf
+inurl:"reporting security issues" "android" "bug bounty"
+inurl:"android" intext:"vulnerability disclosure"
+"bug bounty" "android" "open source"
+inurl:"android" intext:"bug bounty targets"
+
+# VDP Platforms Offering APK Bug Bounty Programs
+inurl:"vulnerability disclosure" "android app" "bug bounty"
+site:bugcrowd.com inurl:"vulnerability disclosure program" "android"
+site:hackerone.com inurl:"vulnerability disclosure" "android app"
+site:securitytrails.com "vulnerability disclosure" "android app"
+inurl:"vulnerability disclosure" "android" filetype:pdf
+"vulnerability disclosure" "android app" "security testing"
+site:github.com "vulnerability disclosure" "android"
+site:yeswehack.com "android app" "vulnerability disclosure"
+site:bugcrowd.com "android" "vulnerability disclosure"
+site:hackerone.com "vulnerability disclosure" "android"
+site:openbugbounty.org "android" "vulnerability disclosure"
+site:zerodium.com "android" "security vulnerability"
+site:synack.com "android" "security research"
+"android" "vulnerability disclosure" "bug bounty" site:securityfocus.com
+site:cobalt.io "android" "vulnerability disclosure"
+inurl:"android app" "vulnerability disclosure program"
+inurl:"vulnerability disclosure" "android"
+"security vulnerability" "android" "bug bounty" "VDP"
+inurl:"android" "bug bounty" "vulnerability disclosure"
+site:yeswehack.com "android app" "VDP"
+site:openbugbounty.org "android" "bug bounty"
+"android" "vulnerability disclosure" inurl:docs
+
+#General Mobile Bug Bounty Dorks (Not Specific to Android)
+site:hackerone.com "mobile app" "bug bounty"
+inurl:"bug bounty" "mobile app" "security research"
+inurl:"bug bounty" "mobile app" "reporting vulnerabilities"
+inurl:"bug bounty" "android" "security testing"
+inurl:"vulnerability disclosure program" "mobile" 
+"android" "bug bounty" site:bugcrowd.com
+"mobile" "bug bounty" "security testing"
+inurl:"bug bounty" "android" intext:"mobile app"
+inurl:"mobile app" "report bugs" "vulnerability disclosure"
+site:github.com "android app" "bug bounty"
+inurl:"mobile security" "bug bounty" "android"
