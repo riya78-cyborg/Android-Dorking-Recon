@@ -5,7 +5,7 @@ Welcome to the ultimate guide for finding **Android bug bounty targets** using s
 
 ---
 
-## 🔍 What You’ll Learn
+## What You’ll Learn
 - How to find Android APKs using Google Dorks
 - How to identify open-source Android apps for analysis
 - How to find companies running Android apps on HackerOne, Bugcrowd, etc.
@@ -14,14 +14,14 @@ Welcome to the ultimate guide for finding **Android bug bounty targets** using s
 
 ---
 
-## 📁 Folder Overview
+## Folder Overview
 - `dorks/`: Useful dorks for Google, GitHub, and platforms
 - `tools/`: Recon tools and techniques
 - `examples/`: Sample target discovery walkthroughs
 
 ---
 
-## 🛠 Requirements
+## Requirements
 - A browser (Google, GitHub)
 - Optional: recon tools (like AssetFinder, Amass, etc.)
 - Curiosity and patience
@@ -53,7 +53,7 @@ Found a new dork or recon trick? Feel free to open a PR or issue.
 
 ---
 
-## 👨‍🏫 Created By
+## Created By
 **Riya Nair** – Android Bug Bounty Trainer  
 
 ---
