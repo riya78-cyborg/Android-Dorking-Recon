@@ -2,3 +2,56 @@ site:play.google.com/store/apps/details?id=
 inurl:"index of" apk
 intitle:"index of" "apk"
 site:apkpure.com apk download
+site:play.google.com/store/apps/details?id=
+site:play.google.com/store/apps/details?id=com
+site:play.google.com/store/apps/dev?id=
+site:play.google.com inurl:details?id=
+inurl:"index of" apk
+intitle:"index of" "apk"
+intitle:"index of" "android"
+intitle:"index of" "apk downloads"
+intitle:"index of" "com."
+intitle:"index of" "downloads" apk
+inurl:"/apk/" "index of"
+inurl:"/apk" site:drive.google.com
+inurl:"/apk" site:dropbox.com
+inurl:"/apk" site:mediafire.com
+filetype:apk site:github.com
+filetype:apk site:gitlab.com
+filetype:apk site:bitbucket.org
+site:apkpure.com apk download
+site:apkcombo.com apk download
+site:apkmirror.com apk download
+site:apktada.com
+site:f-droid.org inurl:packages
+site:f-droid.org inurl:apps
+"download apk" "android app"
+"download full apk" "android"
+"free apk download" "android"
+"latest apk download" "android"
+"direct download" "apk"
+site:android.com inurl:source
+site:developer.android.com inurl:samples
+inurl:"/downloads/" "apk"
+inurl:"/media/" "apk"
+inurl:"/public/" "apk"
+inurl:"/uploads/" "apk"
+inurl:"/content/" "apk"
+inurl:"/files/" "apk"
+inurl:"/androidapps/"
+inurl:"/mobileapps/"
+intitle:"apk download"
+intitle:"download android apk"
+"app release" filetype:apk
+"release version" filetype:apk
+"beta release" filetype:apk
+"debuggable" intext:"apk"
+filetype:apk debug
+filetype:apk test build
+intext:"build.gradle" "com."
+intext:"AndroidManifest.xml" package
+"API_KEY" OR "client_secret" intext:"Android"
+"firebaseio.com" inurl:"apk"
+site:androidfilehost.com
+site:uptodown.com android apps
+site:apkgk.com
